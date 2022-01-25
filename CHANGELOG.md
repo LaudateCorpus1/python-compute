@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/googleapis/python-compute/compare/v1.0.0...v1.1.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#203](https://github.com/googleapis/python-compute/issues/203)) ([a36c637](https://github.com/googleapis/python-compute/commit/a36c637f153c7b4ef49bb6a78c8b09f3746e7af1))
+
+
+### Bug Fixes
+
+* **deps:** require dataclasses for python 3.6 ([a36c637](https://github.com/googleapis/python-compute/commit/a36c637f153c7b4ef49bb6a78c8b09f3746e7af1))
+
 ## [1.0.0](https://github.com/googleapis/python-compute/compare/v0.9.0...v1.0.0) (2022-01-13)
 
 
